@@ -17,7 +17,7 @@ SWCategoryKit is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SWCategoryKit'
+pod 'SWCategoryKit',:git => 'https://github.com/isongwei/SWCategoryKit.git'
 ```
 
 ## Author
