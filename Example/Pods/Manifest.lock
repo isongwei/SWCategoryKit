@@ -1,0 +1,16 @@
+PODS:
+  - SWCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - SWCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  SWCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SWCategoryKit: 828d1eb1b254dd1649f28860c3bfd1e69663d17b
+
+PODFILE CHECKSUM: 91414a39cceb8eaf07edef5149cd7e4d94b57c6b
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,22 @@
+{
+  "name": "SWCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of SWCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/i_songwei@163.com/SWCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "i_songwei@163.com": "isongwei1992@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/i_songwei@163.com/SWCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SWCategoryKit/Classes/**/*"
+}

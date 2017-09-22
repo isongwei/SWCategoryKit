@@ -1,0 +1,6 @@
+framework module SWCategoryKit {
+  umbrella header "SWCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
