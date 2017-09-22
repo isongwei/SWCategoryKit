@@ -22,7 +22,7 @@ pod 'SWCategoryKit',:git => 'https://github.com/isongwei/SWCategoryKit.git'
 
 ## Author
 
-i_songwei@163.com, isongwei1992@gmail.com
+isongwei1992@gmail.com
 
 ## License
 
